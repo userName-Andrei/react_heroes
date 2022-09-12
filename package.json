@@ -20,6 +20,7 @@
     "uuid": "^8.3.2",
     "yup": "^0.32.11"
   },
+  "homepage": "https://username-andrei.github.io/react_heroes",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
